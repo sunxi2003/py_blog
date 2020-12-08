@@ -1,4 +1,4 @@
-个人博客 （python+mysql）   
+python实例：博客 （python+mysql）   
 
 来源： https://www.liaoxuefeng.com/wiki/1016959663602400/1018138095494592
 
@@ -15,7 +15,7 @@ http://127.0.0.1:9000/  访问
 
 
 ======================================
-后端API包括：
+后端API：
 
 获取日志：GET /api/blogs
 
